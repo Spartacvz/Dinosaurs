@@ -10,5 +10,5 @@ package com.Greg;
 
             t_rex.roar();
             velociraptor.roar();
-        }
     }
+}
